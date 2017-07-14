@@ -1,0 +1,6 @@
+enum {
+	TRAYMESSAGE = WM_APP,
+	POWERUP,
+	MOVEOPTION,
+	LASER,
+};
